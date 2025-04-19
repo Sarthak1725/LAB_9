@@ -1,3 +1,6 @@
+//Sarthak
+//23070126088
+//AIML-B1
 import java.util.Scanner;
 
 public class Main {
